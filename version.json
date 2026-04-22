@@ -1,12 +1,12 @@
 {
   "android": {
-    "latest_version": "99.0.0",
-    "force_update": true,
-    "store_url": "https://play.google.com/store/apps/details?id=com.your.app"
+    "latest_version": "1.0.0",
+    "force_update": false,
+    "store_url": "https://play.google.com/store/apps/details?id=com.appliedjyotish.astrology"
   },
   "ios": {
-    "latest_version": "99.0.0",
-    "force_update": true,
-    "store_url": "https://apps.apple.com/app/idYOUR_APP_ID"
+    "latest_version": "1.0.0",
+    "force_update": false,
+    "store_url": "https://apps.apple.com/app/idYOUR_REAL_APP_ID"
   }
 }
